@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently pursuing my second year in Bachelor of Engineering in Electronics and Communication engineering **Sri Krishna college of engineering and technology**
 
-- 🌱 I’m currently learning **Web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
